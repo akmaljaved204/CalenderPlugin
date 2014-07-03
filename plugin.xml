@@ -21,6 +21,6 @@
             </feature>
         </config-file>
  
-        <source-file src="src/com/fortsolution/Calendar.java" target-dir="src/com/fortsolution/calendar" />      
+        <source-file src="src/android/Calendar.java" target-dir="src/com/fortsolution/calendar" />      
      </platform>          
 </plugin>
